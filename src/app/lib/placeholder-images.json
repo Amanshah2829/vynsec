@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tech",
+      "description": "Abstract futuristic technology background with grid and network lines",
+      "imageUrl": "https://picsum.photos/seed/vynsec-hero/1200/800",
+      "imageHint": "cyber technology"
+    },
+    {
+      "id": "service-networking",
+      "description": "Enterprise networking infrastructure",
+      "imageUrl": "https://picsum.photos/seed/vynsec-net/600/400",
+      "imageHint": "network server"
+    },
+    {
+      "id": "service-security",
+      "description": "Cybersecurity digital lock concept",
+      "imageUrl": "https://picsum.photos/seed/vynsec-sec/600/400",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "service-cloud",
+      "description": "Cloud computing data center",
+      "imageUrl": "https://picsum.photos/seed/vynsec-cloud/600/400",
+      "imageHint": "cloud computing"
+    },
+    {
+      "id": "service-surveillance",
+      "description": "Modern CCTV security camera system",
+      "imageUrl": "https://picsum.photos/seed/vynsec-cctv/600/400",
+      "imageHint": "cctv camera"
+    }
+  ]
+}
